@@ -1,3 +1,3 @@
 # CI/CD with Jenkins for PHP
 
-Build > Test > Deploy to Staging > Acceptance Test > Deploy to Production
+Build > Unit Test > Code Review > Deploy to Staging > Auto Test > Acceptance Test > Deploy to Production
